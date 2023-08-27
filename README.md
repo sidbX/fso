@@ -3,6 +3,6 @@
 FullStackOpen Repo
 
 ```mermaid
-    flowchart fsoProgress
+    flowchart TB
         A[FullStackOpen] --> B(part0)
 ```
