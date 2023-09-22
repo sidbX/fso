@@ -13,4 +13,10 @@ FullStackOpen Repo
         F --> G(anecdotes)
         F --> H(courseinfo)
         F --> I(unicafe)
+
+        A --> J(part2)
+        J--> K(courseinfo)
+        J--> L(data-for-countries)
+        J--> M(ThePhoneBook)
+
 ```
